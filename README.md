@@ -22,7 +22,6 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -38,7 +37,8 @@ Describe your project
 
 <p>Projeto criado durante a NLW da Rocketseat</p>
 <p>Moveit segue a tecnica de Pomodoro, onde a pessoa deve se concentrar por 25 minutos e após esse tempo realizar outra atividade, para que o celebro armazene o conteudo estudado</p>
-## :rocket: Technologies ##
+
+## :rocket: Technologies
 
 The following tools were used in this project:
 
@@ -54,7 +54,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/marcomonteirobrito/moveit-next
+$ git clone https://github.com/marcomonteirobrito/moveit-reactjs-typescript
 
 # Access
 $ cd moveit-next
