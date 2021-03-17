@@ -10,13 +10,13 @@
 <h1 align="center">Moveit</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/marcomonteirobrito/moveit-next?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/marcomonteirobrito/moveit-reactjs-typescript?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/marcomonteirobrito/moveit-next?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/marcomonteirobrito/moveit-reactjs-typescript?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcomonteirobrito/moveit-next?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcomonteirobrito/moveit-reactjs-typescript?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/marcomonteirobrito/moveit-next?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/marcomonteirobrito/moveit-reactjs-typescript?color=56BEB8">
 
 </p>
 
