@@ -15,9 +15,6 @@
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/marcomonteirobrito/moveit-reactjs-typescript?color=56BEB8">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/marcomonteirobrito/moveit-reactjs-typescript?color=56BEB8">
-
-  <img alt="License" src="https://img.shields.io/github/license/marcomonteirobrito/moveit-reactjs-typescript?color=56BEB8">
-
 </p>
 
 <p align="center">
